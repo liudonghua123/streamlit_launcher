@@ -1,0 +1,6 @@
+# AssertionError: server.port does not work when global.developmentMode is true.
+[global]
+developmentMode = false
+
+[server]
+port = 8501
